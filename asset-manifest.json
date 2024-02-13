@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.226f2a85.css",
-    "main.js": "/static/js/main.c51633d4.js",
-    "static/js/787.5b7c9f07.chunk.js": "/static/js/787.5b7c9f07.chunk.js",
-    "static/media/kitchen.jpg": "/static/media/kitchen.126dbc3a9e9a95011ab2.jpg",
-    "static/media/cutlery.png": "/static/media/cutlery.1f920e7ed930b56ea7b5.png",
-    "index.html": "/index.html",
-    "main.226f2a85.css.map": "/static/css/main.226f2a85.css.map",
-    "main.c51633d4.js.map": "/static/js/main.c51633d4.js.map",
-    "787.5b7c9f07.chunk.js.map": "/static/js/787.5b7c9f07.chunk.js.map"
+    "main.css": "/recipe_search/static/css/main.04a014b5.css",
+    "main.js": "/recipe_search/static/js/main.76bcdbbc.js",
+    "static/js/787.5b7c9f07.chunk.js": "/recipe_search/static/js/787.5b7c9f07.chunk.js",
+    "static/media/kitchen.jpg": "/recipe_search/static/media/kitchen.126dbc3a9e9a95011ab2.jpg",
+    "static/media/cutlery.png": "/recipe_search/static/media/cutlery.1f920e7ed930b56ea7b5.png",
+    "index.html": "/recipe_search/index.html",
+    "main.04a014b5.css.map": "/recipe_search/static/css/main.04a014b5.css.map",
+    "main.76bcdbbc.js.map": "/recipe_search/static/js/main.76bcdbbc.js.map",
+    "787.5b7c9f07.chunk.js.map": "/recipe_search/static/js/787.5b7c9f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.226f2a85.css",
-    "static/js/main.c51633d4.js"
+    "static/css/main.04a014b5.css",
+    "static/js/main.76bcdbbc.js"
   ]
 }
