@@ -1,0 +1,14 @@
+.title_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.title_header {
+  color: rgb(24, 85, 54);
+  margin-bottom: 5px;
+}
+.title_text {
+  color: rgb(45, 56, 48);
+  margin-top: 5px;
+}
